@@ -1,0 +1,5 @@
+| candidate-1 | 500000 | 
+| candidate-2 | 1000000 | 
+| candidate-3 | 2000000 | 
+| candidate-4 | 2000000 | 
+| candidate-5 | 3000000 | 
